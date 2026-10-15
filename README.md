@@ -1,24 +1,24 @@
 # Kristin Gans
-### Strategic Marketing Operations Leader · B2B SaaS
+### Marketing Operations & Analytics Leader<br><sub>Trusted Partner to B2B SaaS Exec Teams · 2x Startup-to-Acquisition</sub>
 
 📍 Goleta, CA &nbsp;·&nbsp; 💼 [linkedin.com/in/kristinlyngans](https://linkedin.com/in/kristinlyngans)
 
-🌐 **[View the web version of this resume →](https://kristingans.github.io/kristin-gans-resume/)**
+🌐 *[View the web version of this resume →](https://kristingans.github.io/kristin-gans-resume/)**
 
 ---
 
 ## About
 
-Marketing Operations leader with 10+ years building and scaling the systems, processes, and operating infrastructure that power B2B SaaS growth. I work across funnel operations, campaign and journey orchestration, MarTech strategy, lifecycle management, scoring and routing, data governance, and Marketing operating rhythms.
+I’m a Marketing Operations leader who pairs a growth marketer’s instincts with the technical depth to build the systems behind them. Over 10+ years in B2B SaaS, I’ve built Marketing and Sales Operations from the ground up, led demand generation, and developed teams, helping two companies scale through to acquisition.
 
-I'm a hands-on systems thinker and a trusted executive partner. I turn complex go-to-market challenges into durable processes, clear accountability, and measurable business outcomes, and I build strong partnerships across Marketing, Sales, Product, Engineering, Finance, and Customer Success.
+My strength is connecting business strategy, customer journeys, data, and technology so teams can execute with clarity and leaders can make confident investment decisions. I bring the same practical approach to AI and automation: building workflows that solve real business problems and make everyday work easier.
 
 ## Selected Impact
 
 | Result | Context |
 |---|---|
 | **32% fewer** unqualified leads routed to Sales | Lead scoring combining firmographic + behavioral signals (Harvest) |
-| **35% YoY growth** in target account wins | Supported by a warehouse-first HubSpot + BigQuery foundation (Harvest) |
+| **35% YoY growth** in target account wins | Supported by a AI-ready, warehouse-first HubSpot + BigQuery foundation (Harvest) |
 | **1M+ users** in automated lifecycle journeys | 90+ Sender Score and "High" Google Postmaster domain reputation (Harvest) |
 | **Within 0.5%** of forecast on marketing spend | ~$6M annual budget, Agile planning cadence (Harvest) |
 | **Days → hours** for monthly business review prep | Automated executive reporting workflows (Harvest) |
@@ -46,7 +46,7 @@ Strategic and operational partner to the VP of Marketing. Built Harvest's Market
 - **Analytics & Operational Visibility:** Built executive reporting and forecasting frameworks connecting acquisition investment, funnel conversion, trial quality, and revenue outcomes; automated reporting workflows that cut monthly business review preparation from days to hours.
 - **AI & Automation:** Led evaluation and implementation of AI-enabled workflows and tools including ChatGPT, Claude, ZoomInfo Copilot, and AI-assisted enrichment and intent solutions, using a structured evaluation approach focused on business value, data quality, workflow fit, and appropriate controls.
 - **Cross-Functional Leadership:** Led operational readiness for 2 major product and pricing initiatives, aligning data, campaigns, reporting, and KPIs across Marketing, Product, Engineering, and Data, enabling a 25% YoY increase in MRR per target user.
-- **Team & Talent Leadership:** Hired, onboarded, and coached a Marketing Operations Manager; defined responsibilities, development opportunities, and cross-training. Earned Harvest's *Seek Impact* Award for high-impact execution and leadership.
+- **Team & Talent Leadership:** Hired, onboarded, and coached a Marketing Operations Manager while providing operational leadership across the broader Marketing organization, fostering a collaborative, high-accountability culture built on clear communication and shared ownership. Harvest's *Seek Impact* Award for high-impact execution.
 
 ### Senior Marketing Manager — MyCase
 *Feb 2019 – Mar 2022 · Remote · B2B SaaS, Legal Tech*
@@ -67,11 +67,18 @@ Owned demand generation campaigns and lifecycle automation supporting 50%+ of an
 - **Data & Revenue Analytics:** Developed demand forecasting and SaaS unit economics reporting connecting Marketing activity to CAC, LTV, pipeline efficiency, and customer acquisition during growth toward ~$100M ARR.
 - **Attribution & Performance Visibility:** Established first- and multi-touch attribution and campaign tracking standards across digital and offline channels, improving channel buckets, data recency, and funnel/ROI visibility.
 
+### Marketing Programs Manager — CJ Affiliate
+*Mar 2012 – Dec 2014 · Goleta, CA · B2B SaaS, Enterprise Performance Marketing*
+
+Led cross-functional digital marketing and GTM initiatives across Marketing, Product, and Sales within a global affiliate marketing network, translating business priorities into scalable product adoption programs.
+
+- **GTM & Lead Operations:** Redesigned website lead flows and targeting for an account-based acquisition strategy, increasing conversion among target accounts by 10%.
+- **Partner Marketing:** Built product adoption and lifecycle campaigns across a two-sided advertiser/publisher ecosystem, generating $3M+ in publisher sales and increasing mobile-certified advertisers 104%.
+
 ### Earlier Career
 
 | Role | Organization | Dates |
 |---|---|---|
-| Marketing Programs Manager | CJ Affiliate · Goleta, CA | Mar 2012 – Dec 2014 |
 | Marketing Coordinator | SynCardia Systems · Tucson, AZ | 2009 – 2010 |
 | International Government Relations Associate | General Electric Co. · Washington, D.C. | 2008 |
 | Confidential Assistant to the Deputy U.S. Trade Representative | Executive Office of the President · Washington, D.C. | 2006 – 2008 |
@@ -81,22 +88,22 @@ Owned demand generation campaigns and lifecycle automation supporting 50%+ of an
 ## Education
 
 **MBA, Strategic Management & Marketing** — University of Arizona, Eller College of Management, 2011
-Beta Gamma Sigma Honoree · Eller Merit Scholarship
+<br>Beta Gamma Sigma Honoree · Eller Merit Scholarship
 
 **B.A., Business Economics & Political Science** — University of California, Santa Barbara, 2005
-Dean's List · Big West Academic All-Conference Scholar Athlete (Cross Country, Track & Field)
+<br>Dean's List · Big West Academic All-Conference Scholar Athlete (Cross Country, Track & Field)
 
 ## Technology & Platforms
 
 | Area | Tools |
 |---|---|
 | Marketing Automation & CRM | Adobe Marketo (Certified), HubSpot (Certified), Salesforce, Customer.io |
-| Website & Tracking | Drupal, WordPress, GA4, Google Tag Manager, VWO, Optimizely, Hotjar, Drift, Semrush |
-| Data & Analytics | BigQuery, dbt, Hightouch, Mode, Tableau, Looker, Heap, SQL, Bizible, Zapier, Workato |
-| Enrichment & Intent | ZoomInfo, 6sense, LinkedIn Sales Navigator |
-| AI & Automation | ChatGPT, Claude, ZoomInfo Copilot, Ada, HubSpot Breeze |
-| Workflow & Project Management | Jira, Confluence, Monday.com, Asana, Wrike |
-| Privacy & Governance | GDPR, CCPA, CAN-SPAM, OneTrust, Postmaster Tools, Sender Score, UTM taxonomy, Data & Lifecycle Governance |
+| Website & Tracking | Drupal, WordPress, GA4, Google Tag Manager, VWO, Optimizely, Hotjar, Drift, Semrush, Heap |
+| Data & Analytics | BigQuery, dbt, Hightouch, Mode, Tableau, Looker, Heap, SQL (working knowledge), Bizible, Zapier, Workato |
+| Enrichment & Intent | ZoomInfo, 6sense, LinkedIn Sales Navigator, Apollo |
+| AI & Automation | ChatGPT, Claude, ZoomInfo Copilot, Ada, HubSpot Breeze, NotebookLM |
+| Workflow & Project Management | Jira, Confluence, Monday.com, Asana, Wrike, Trello |
+| Privacy & Governance | GDPR, CCPA, CAN-SPAM, OneTrust, Postmaster Tools, Sender Score |
 
 ---
 
