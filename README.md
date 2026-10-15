@@ -3,7 +3,7 @@
 
 📍 Goleta, CA &nbsp;·&nbsp; 💼 [linkedin.com/in/kristinlyngans](https://linkedin.com/in/kristinlyngans)
 
-🌐 *[View the web version of this resume →](https://kristingans.github.io/kristin-gans-resume/)**
+🌐 **[View the web version of this resume →](https://kristingans.github.io/kristin-gans-resume/)**
 
 ---
 
@@ -18,7 +18,7 @@ My strength is connecting business strategy, customer journeys, data, and techno
 | Result | Context |
 |---|---|
 | **32% fewer** unqualified leads routed to Sales | Lead scoring combining firmographic + behavioral signals (Harvest) |
-| **35% YoY growth** in target account wins | Supported by a AI-ready, warehouse-first HubSpot + BigQuery foundation (Harvest) |
+| **35% YoY growth** in target account wins | Supported by an AI-ready, warehouse-first HubSpot + BigQuery foundation (Harvest) |
 | **1M+ users** in automated lifecycle journeys | 90+ Sender Score and "High" Google Postmaster domain reputation (Harvest) |
 | **Within 0.5%** of forecast on marketing spend | ~$6M annual budget, Agile planning cadence (Harvest) |
 | **Days → hours** for monthly business review prep | Automated executive reporting workflows (Harvest) |
@@ -46,7 +46,7 @@ Strategic and operational partner to the VP of Marketing. Built Harvest's Market
 - **Analytics & Operational Visibility:** Built executive reporting and forecasting frameworks connecting acquisition investment, funnel conversion, trial quality, and revenue outcomes; automated reporting workflows that cut monthly business review preparation from days to hours.
 - **AI & Automation:** Led evaluation and implementation of AI-enabled workflows and tools including ChatGPT, Claude, ZoomInfo Copilot, and AI-assisted enrichment and intent solutions, using a structured evaluation approach focused on business value, data quality, workflow fit, and appropriate controls.
 - **Cross-Functional Leadership:** Led operational readiness for 2 major product and pricing initiatives, aligning data, campaigns, reporting, and KPIs across Marketing, Product, Engineering, and Data, enabling a 25% YoY increase in MRR per target user.
-- **Team & Talent Leadership:** Hired, onboarded, and coached a Marketing Operations Manager while providing operational leadership across the broader Marketing organization, fostering a collaborative, high-accountability culture built on clear communication and shared ownership. Harvest's *Seek Impact* Award for high-impact execution.
+- **Team & Talent Leadership:** Hired, onboarded, and coached a Marketing Operations Manager while providing operational leadership across the broader Marketing organization, fostering a collaborative, high-accountability culture built on clear communication and shared ownership. Earned Harvest's *Seek Impact* Award for high-impact execution.
 
 ### Senior Marketing Manager — MyCase
 *Feb 2019 – Mar 2022 · Remote · B2B SaaS, Legal Tech*
